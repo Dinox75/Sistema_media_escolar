@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assents/banner.png" alt="Banner do projeto Sistema de Média Escolar" width="100%">
+  <img src="assets/banner.png" alt="Banner do projeto Sistema de Média Escolar" width="100%">
 </p>
  
 <h1 align="center">📚 Sistema de Média Escolar em Python</h1>
