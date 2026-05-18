@@ -147,7 +147,7 @@ sistema-media-escolar-python/
 ### 1. Clone o repositório
  
 ```bash
-git clone https://github.com/Dinox75/sistema-media-escolar-python.git
+git clone https://github.com/Dinox75/Sistema_media_escolar.git
 ```
  
 ### 2. Acesse a pasta do projeto
